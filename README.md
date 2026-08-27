@@ -1,2 +1,2 @@
 # FPL
-FPL: FPL Programming Language
+FPL Programming Language
